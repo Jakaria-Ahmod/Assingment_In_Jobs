@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import 'tailwindcss';
+
+@font-face {
+  font-family: 'Voltec';
+  src: url('./assets/fonts/Voltec.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Atomos';
+  src: url('./assets/fonts/Atomos.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Megaton';
+  src: url('./assets/fonts/Megaton.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@theme {
+  --font-Voltec: 'Voltec', sans-serif;
+  --font-Atomos: 'Atomos', sans-serif;
+  --font-Orbitron: 'Orbitron', sans-serif;
+  --font-Megaton: 'Megaton', sans-serif;
+  --color-Three: #000d18;
+  --color-secondary: #21e786;
+  --color-Primary: #00120a;
+}
+
+.bg {
+  background-image: url('./assets/img/bannerbg.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 1000px;
+}
+@layer utilities {
+  .marquee {
+    animation: marquee 15s linear infinite;
+  }
+}
