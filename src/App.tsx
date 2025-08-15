@@ -1,6 +1,7 @@
 import Header from './comonLayout/Heder';
 import Baneer from './components/Banner/Baneer';
 import COINPORT from './components/Coniport';
+import Leage from './components/League';
 import Remining from './components/Remining';
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
         <Baneer></Baneer>
         <COINPORT></COINPORT>
         <Remining></Remining>
+        <Leage></Leage>
       </div>
     </div>
   );

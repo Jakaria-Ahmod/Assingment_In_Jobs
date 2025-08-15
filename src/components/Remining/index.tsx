@@ -12,6 +12,7 @@ const Remining: React.FC = () => {
           </div>
         ))}
       </div>
+      <div className="w-full h-[1px] bg-white"></div>
     </div>
   );
 };
