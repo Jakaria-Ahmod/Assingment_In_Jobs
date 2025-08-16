@@ -1,3 +1,4 @@
+import Footer from './comonLayout/Footer';
 import Header from './comonLayout/Heder';
 import Baneer from './components/Banner/Baneer';
 import COINPORT from './components/Coniport';
@@ -13,6 +14,7 @@ const App = () => {
         <COINPORT></COINPORT>
         <Remining></Remining>
         <Leage></Leage>
+        <Footer></Footer>
       </div>
     </div>
   );

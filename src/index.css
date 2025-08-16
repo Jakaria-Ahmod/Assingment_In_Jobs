@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 @import 'tailwindcss';
 
 @font-face {
@@ -24,9 +25,11 @@
   --font-Atomos: 'Atomos', sans-serif;
   --font-Orbitron: 'Orbitron', sans-serif;
   --font-Megaton: 'Megaton', sans-serif;
+  --font-Press: 'Press Start 2P', system-ui;
   --color-Three: #000d18;
   --color-secondary: #21e786;
   --color-Primary: #00120a;
+  --color-Four: #ff6348;
 }
 
 .bg {
