@@ -3,8 +3,8 @@
 A pixel-perfect, responsive implementation of the provided Figma design.
 
 <p align="center">
-  <a href="<LIVE_LINK>" target="_blank">🔗 Live Demo</a> •
-  <a href="<REPO_LINK>" target="_blank">💻 GitHub Repo</a> •
+  <a href="https://assingment-in-jobs.vercel.app/" target="_blank">🔗 Live Demo</a> •
+  <a href="https://github.com/Jakaria-Ahmod/Assingment_In_Jobs" target="_blank">💻 GitHub Repo</a> •
   <a href="https://www.figma.com/design/UAIOracEXMTsmig9WIIkey/Assignment?node-id=1-23209&t=o6SlX38CnDkMTyVO-0" target="_blank">🎨 Figma</a>
 </p>
 
