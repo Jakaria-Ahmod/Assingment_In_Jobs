@@ -34,4 +34,53 @@ The UI closely follows the shared Figma, with attention to spacing, typography, 
 - Deployed and production-ready build
 
 ---
+# 🎮 Game Website (Assignment Project)
+
+---
+
+## 🧑‍💻 Developer Information
+
+**👨‍🎓 Developer Name:** [Md Jakaria Ahmod](https://jakaria-vert.vercel.app)  
+**💼 Profession:** MERN Stack Web Developer  
+**📧 Email:** [jakariaahmodmd@gmail.com](mailto:jakariaahmodmd@gmail.com)  
+**📞 Phone:** +8801889913945  
+**🔗 Portfolio:** [https://mdjakariaahmod.onrender.com](https://mdjakariaahmod.onrender.com)  
+**🔗 LinkedIn:** [https://www.linkedin.com/in/mdjakariaahmod/](https://www.linkedin.com/in/mdjakariaahmod/)  
+**🔗 GitHub:** [https://github.com/Jakaria-Ahmod](https://github.com/Jakaria-Ahmod)
+
+![Developer Image](https://drive.google.com/uc?export=view&id=1bzbCxLsaSqEBSo46ha7RNkWOS61-Srfc)
+
+---
+
+## 📝 Project Overview
+
+This is a **Game Website** built as part of an **interview assignment project**.  
+The main goal of this project is to demonstrate **frontend development skills** using **React, TypeScript, and Tailwind CSS**.  
+The website features an interactive and responsive design that adapts perfectly across all devices.
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React 19**
+- 💅 **Tailwind CSS 4**
+- 🔤 **TypeScript 5**
+- ⚡ **Vite 7**
+- 🎠 **React Fast Marquee**
+
+---
+
+## 🌟 Features
+
+✅ Fully responsive game-themed UI  
+✅ Fast loading using Vite bundler  
+✅ Built with modern React (functional components & hooks)  
+✅ Smooth scrolling and animations  
+✅ Reusable and modular components  
+✅ Clean folder structure  
+✅ Optimized for performance
+
+---
+
+
 
